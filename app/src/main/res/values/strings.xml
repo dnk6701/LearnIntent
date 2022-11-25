@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LearnIntent</string>
+    <string name="Greeting">Песни:</string>
+    <string name="another_activity_button_text">На экран функций</string>
+    <string name="second_activity_title_text">Это и есть экран функций</string>
+    <string name="second_activity_support_button">Звонок другу</string>
+    <string name="second_activity_search_bar_text">Искать советские песни</string>
+</resources>
